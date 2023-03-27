@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Electrical engineer, test engineer, tech writer
+Electrical engineer, test engineer, tech writer <br>
  👯 I’m looking to collaborate on technical writing in general, and API tech writing in particular
